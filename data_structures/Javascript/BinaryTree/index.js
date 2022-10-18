@@ -5,6 +5,8 @@ class TreeNode {
 
     constructor(value) {
         this.value = value;
+        
+        
     }
 }
 
@@ -14,7 +16,6 @@ class BinaryTree {
     }
 
     insert(value, node) {
-
         if (!node) {
             node = this.root
         }
