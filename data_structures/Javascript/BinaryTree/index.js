@@ -4,9 +4,7 @@ class TreeNode {
     value = null;
 
     constructor(value) {
-        this.value = value;
-        
-        
+        this.value = value;   
     }
 }
 
